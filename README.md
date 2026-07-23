@@ -45,8 +45,4 @@ cargo run --release
 
 ## 👤 Autoria
 
-Desenvolvido por [Paulo Gabriel Gonçalves Leme](https://github.com/PauloGabrielLeme).
-
-## 📄 Licença
-
-Nenhuma licença foi definida para este repositório até o momento.
+Desenvolvido por [Paulo Gabriel Gonçalves Leme](https://github.com/GabrielSugiura).
